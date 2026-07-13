@@ -91,18 +91,6 @@ My first React Native application - a [brief description of what it does].
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya-kumar-yadav1&show_icons=true&hide_border=true&theme=dark)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-kumar-yadav1&layout=compact&hide_border=true&theme=dark)
-  
-</div>
-
----
-
 ## 💡 What I'm Working On
 
 - 🚀 Building full-stack web applications
