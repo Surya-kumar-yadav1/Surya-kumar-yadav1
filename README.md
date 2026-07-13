@@ -30,8 +30,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Surya-kumar-yadav1&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=79B8FF&text_color=FFFFFF&bg_color=0d1117" alt="Surya Kumar Yadav's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-kumar-yadav1&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Surya-kumar-yadav1&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=79B8FF&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-kumar-yadav1&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-kumar-yadav1&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Streak">
 </div>
 
 ---
