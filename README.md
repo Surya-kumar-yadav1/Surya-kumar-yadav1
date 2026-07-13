@@ -21,7 +21,7 @@
 
 - 💻 **Computer Science Student** | Passionate about coding and problem-solving
 - 🌱 **Currently Learning** React Native & Machine Learning
-- 🧠 **Competitive Programmer** | 280+ LeetCode problems solved
+- 🧠 **Competitive Programmer** | 300+ LeetCode problems solved
 - 🎯 **Goal** Build innovative solutions that make a real-world impact
 - 📍 **Location** India
 
@@ -94,21 +94,12 @@ My first React Native application - a [brief description of what it does].
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya-kumar-yadav1&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-kumar-yadav1&theme=radical" alt="GitHub Streak" height="170">
+  
+  ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya-kumar-yadav1&show_icons=true&hide_border=true&theme=dark)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-kumar-yadav1&layout=compact&hide_border=true&theme=dark)
+  
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-kumar-yadav1&layout=compact&theme=radical" alt="Most Used Languages" height="170">
-</div>
-
----
-
-## 🎓 Achievements & Certifications
-
-- 🥇 280+ LeetCode problems solved
-- 📜 [Add your certifications here]
-- 🏆 [Add awards/recognitions here]
 
 ---
 
