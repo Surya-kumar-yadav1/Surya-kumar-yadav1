@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Surya-kumar-yadav1&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=79B8FF&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-kumar-yadav1&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Surya-kumar-yadav1&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=79B8FF&text_color=FFFFFF&bg_color=0d111[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-kumar-yadav1&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="[...]
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-kumar-yadav1&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Streak">
 </div>
 
@@ -85,19 +85,16 @@
 A location-based travel web application designed to help users discover and explore destinations.
 - **Tech Stack:** React.js, Google Maps API, Node.js, MongoDB
 - **Features:** Real-time location search, reviews, recommendations
-- **[View Repository](#)** | **[Live Demo](#)**
 
 ### 🏥 **LifeCare - Hospital Management System**
 A comprehensive hospital management system for managing patient records, appointments, and staff operations.
 - **Tech Stack:** React.js, Node.js, Express.js, MySQL
 - **Features:** Patient management, appointment scheduling, doctor dashboard, billing
-- **[View Repository](#)** | **[Live Demo](#)**
 
 ### 📱 **React Native Mobile App**
-My first React Native application - a [brief description of what it does].
+My first React Native application - a comprehensive mobile solution.
 - **Tech Stack:** React Native, Firebase, Redux
-- **Features:** [Key features here]
-- **[View Repository](#)** | **[Download](#)**
+- **Features:** Cross-platform functionality, real-time updates
 
 ---
 
