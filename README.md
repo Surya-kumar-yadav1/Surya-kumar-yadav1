@@ -14,8 +14,8 @@
 
 ## About Me
 
-- 🎓 Second-year B.Tech Computer Science student at NIT Patna (2023–2027)
-- 🧩 Competitive programmer with 300+ LeetCode problems solved
+- 🎓 Second-year B.Tech Computer Science student at NIT Patna (2024–2028)
+- 🧩 Competitive programmer with 350+ LeetCode problems solved
 - 🌱 Currently exploring React Native and Machine Learning
 - 💻 Building full-stack web apps and daily DSA practice
 - 📍 Based in India
@@ -102,7 +102,7 @@ A to-do list front end styled to look like a physical notebook.
 ## Currently Working On
 
 - 🚀 Full-stack web applications
-- 🤖 Machine Learning fundamentals
+- 🤖 AI and Machine Learning fundamentals
 - 📱 React Native apps
 - 🧩 Competitive programming challenges
 
