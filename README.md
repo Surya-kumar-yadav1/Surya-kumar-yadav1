@@ -15,7 +15,7 @@
 ## About Me
 
 - 🎓 Third-year B.Tech Computer Science student at NIT Patna (2024–2028)
-- 🧩 Competitive programmer with 350+ LeetCode problems solved
+- 🧩 Competitive programmer with 400+ LeetCode problems solved
 - 🌱 Currently exploring React Native and Machine Learning
 - 💻 Building full-stack web apps and daily DSA practice
 - 📍 Based in India
