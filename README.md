@@ -5,6 +5,7 @@
 **Full-Stack Developer · Competitive Programmer · CS Undergrad at NIT Patna**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryakumaryadav/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya-kumar-yadav1)
 
 </div>
@@ -14,7 +15,7 @@
 ## About Me
 
 - 🎓 Third-year B.Tech Computer Science student at NIT Patna (2024–2028)
-- 🧩 Active competitive programmer on LeetCode, Codeforces, and CodeChef
+- 🧩 Competitive programmer, active on Leetcode, Codeforces and Codechef
 - 🌱 Currently exploring React Native and Machine Learning
 - 💻 Building full-stack web apps and daily DSA practice
 - 📍 Based in India
@@ -63,12 +64,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Surya-kumar-yadav1&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=79B8FF&text_color=FFFFFF&bg_color=0d1[...]"
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Surya-kumar-yadav1&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt[...]
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Surya-kumar-yadav1&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=79B8FF&text_color=FFFFFF&bg_color=0d1117" alt="Surya's GitHub Stats" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Surya-kumar-yadav1&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-kumar-yadav1&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-kumar-yadav1&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -112,6 +113,7 @@ A to-do list front end styled to look like a physical notebook.
 **Let's connect and build something together.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryakumaryadav/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya-kumar-yadav1)
 
 <img src="https://komarev.com/ghpvc/?username=Surya-kumar-yadav1&color=blueviolet" alt="Profile Views" />
